@@ -6,6 +6,9 @@
 感谢作者提供的精神支持：
 @HardwareLab
 
+<img width="1193" height="674" alt="QQ20260307-221219" src="https://image2url.com/r2/default/files/1774142984691-319b051b-b133-4df2-a8e6-f4cbd2569d21.png" />
+
+
 本来我打算再搞多一点功能的，但是虚拟机崩了...导致更新只能停止到这了......
 
 
@@ -21,17 +24,34 @@
 
 1.删除了HWLOS主桌面能打开的所有应用，只保留配置文件以及壁纸还有主文件
 
+<img width="611" height="269" alt="QQ20260322-092847" src="https://image2url.com/r2/default/files/1774143180093-f8e95056-4533-464f-896f-f4593e931f93.png" />
+
+
 2.系统自带的Chrome++129版本更新为原版Chrome146版本（Tips:可以在chrome://flag中启用垂直标签页）
+
+<img width="1152" height="864" alt="HwlOS-2026-03-22-09-10-51" src="https://image2url.com/r2/default/files/1774141905187-6d5581a2-ff8d-497f-ab2d-8d525ce688c8.png" />
+
 
 3.修复CMD，winver，taskmgr，Explorer这些PE都会用到的文件
 
+<img width="1152" height="864" alt="HwlOS-2026-03-22-09-14-21" src="https://image2url.com/r2/default/files/1774142075722-49152075-39b8-4741-be77-0bf6973eed9b.png" />
+
+
 4.使用FirPE同款WinXShell设置界面
 
-5.添加了HarmonyDock
+<img width="1152" height="864" alt="HwlOS-2026-03-2" src="https://image2url.com/r2/default/files/1774142227451-9d7bb765-5c56-442e-9e62-df8e11b86942.png" />
+
+
+5.添加了HarmonyDock（不方便截图展示）
 
 6.新增Cortana(作者：@柏雪闻采edge_A)
 
+<img width="1152" height="864" alt="HwlOS9-14-21" src="https://image2url.com/r2/default/files/1774142402603-08a93dea-3fbb-4c34-ad6d-e751664375d9.png" />
+
 7.恢复mmc
+
+<img width="1152" height="864" alt="HwlOS-2026-03-22-09-23-11" src="https://image2url.com/r2/default/files/1774142615529-6fbd8bfc-d65d-4282-bcd4-e69296153810.png" />
+
 
 8.给部分软件设置了Windows环境下内置的系统快捷键：
 
@@ -44,6 +64,9 @@ Win+L=打开WinXShell锁屏界面
 Win+S=打开Everything
 
 9.将系统自带的OpenWith替换为Figer的增强版OpenWith
+
+<img width="1152" height="864" alt="HwlOS-2026-03-22-09-26-11" src="https://image2url.com/r2/default/files/1774142766677-9fd0928d-1671-41c8-a44f-e8a4a580473d.png" />
+
 
 虽然这个系统已经越来越像HotPE了，但是还是有很多的功能我是已经燃尽了...例如：
 
@@ -69,4 +92,4 @@ Win+S=打开Everything
 原版HotPE官网：<a href="https://www.hotpe.top">hotpe.top</a>
 
 如果可以的话，你可以到我的个人空间来个一键三连码？
-<a href="https://space.bilibili.com/3546636693277438">j进入个人空间</a>
+<a href="https://space.bilibili.com/3546636693277438">进入个人空间</a>
